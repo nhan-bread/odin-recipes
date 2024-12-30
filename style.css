@@ -1,3 +1,12 @@
 * {
     font-family: Helvetica, Verdana, sans-serif;
+} 
+
+h1 {
+    background-color: lightblue; 
+}
+
+h2 {
+    background-color: rgb(192, 216, 224);
+    color: black;
 }
