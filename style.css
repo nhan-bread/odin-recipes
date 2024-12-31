@@ -24,3 +24,8 @@ ul {
 ol {
     color: black;
 } 
+
+.udon-image {
+    height: auto;
+    width: 310px;
+}
