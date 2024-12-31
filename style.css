@@ -25,17 +25,7 @@ ol {
     color: black;
 } 
 
-#udon-img {
-    height: auto;
-    width: 310px;
-}
-
-#sandwich-img {
-    height: auto;
-    width: 310px;
-}
-
-#cookie-img {
+img {
     height: auto;
     width: 310px;
 }
