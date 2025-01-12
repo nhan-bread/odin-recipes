@@ -6,15 +6,19 @@ h1 {
     background-color: lightblue; 
     text-align: center;
     color: black;
+    padding: 10px;
 }
 
 h2 {
     background-color: rgb(192, 216, 224);
     color: black;
+    padding: 8px;
+    display: block;
 }
 
 p {
     color: black;
+    padding: 10px;
 }
 
 ul {
@@ -28,4 +32,6 @@ ol {
 img {
     height: auto;
     width: 310px;
+    display: block;
+    margin: auto;
 }
