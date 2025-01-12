@@ -35,3 +35,10 @@ img {
     display: block;
     margin: auto;
 }
+
+button {
+    background-color: lightblue;
+    margin: 5px;
+    padding: 5px;
+    font-size: 16px;
+}
